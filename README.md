@@ -1,2 +1,2 @@
-# KwadSquadDesigns_SquadOne
-Kwad Squad Designs quadcopter frames
+# KwadSquad Designs Presents SquadOne
+KwadSquad Designs quadcopter frames
