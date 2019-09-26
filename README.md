@@ -12,13 +12,19 @@ KwadSquad Designs quadcopter frames
 
 
 # Parts - Screws/nut
-12 pcs - m3x6
-4 pcs - m3x8
-12 pcs - m3x10
-4 pcs - m3x25
-12 pcs - m3 pressnut/rivet
+| pcs | part | type |
+| ------------- | ------------- | ------------- |
+| 12 | m3x6 | steel |
+| 4 | m3x8 | steel |
+| 12 | m3x10 | steel |
+| 4 | m3x25 | steel |
+| 12 | m3 pressnut/rivet | steel |
+
 
 # Parts - Standoffs
-8 pcs - 25mm standoff
-2 pcs - 28mm standoff
+| pcs | part | type |
+| ------------- | ------------- | ------------- |
+| 8 | 25mm standoff | Aluminium |
+| 2 | 28mm standoff | Aluminium |
+
 
